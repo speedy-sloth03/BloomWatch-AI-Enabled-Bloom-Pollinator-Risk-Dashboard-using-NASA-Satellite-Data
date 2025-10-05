@@ -1,0 +1,14 @@
+:root {
+  --bg: #f7f7f7;
+  --primary: #005f73;
+  --accent: #ffb703;
+  --marker1: #000000;
+  --marker2: #E69F00;
+  --marker3: #56B4E9;
+  --heat-0: #440154;
+  --heat-1: #3b528b;
+  --heat-2: #21918c;
+  --heat-3: #5dc863;
+  --heat-4: #fde725;
+  font-family: 'Inter', 'Noto Sans Bengali', Arial, sans-serif;
+}

@@ -1,0 +1,9 @@
+{
+  "app.title": "BloomWatch",
+  "globe.home": "Explore the globe to start",
+  "dashboard.title": "BloomWatch Dashboard",
+  "button.startTour": "Start Guided Tour",
+  "button.downloadCSV": "Download CSV",
+  "label.ndviSeries": "NDVI Time Series",
+  "label.prediction": "Predicted Bloom Onset"
+}

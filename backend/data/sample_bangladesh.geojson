@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Dhaka",
+      "properties": {
+        "name_en": "Dhaka",
+        "name_bn": "ঢাকা"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [88.0, 22.0], [91.0, 22.0], [91.0, 24.5], [88.0, 24.5], [88.0, 22.0]
+          ]
+        ]
+      }
+    }
+    // ... features for other divisions
+  ]
+}
